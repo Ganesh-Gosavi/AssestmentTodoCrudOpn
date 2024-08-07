@@ -18,8 +18,7 @@ npm (v6 or later) or yarn
 MongoDB (local or cloud-based)
 Installation
 Clone the repository:
-
-git clone https://github.com/your-username/assessment-todo-crud.git
+git clone:https://github.com/Ganesh-Gosavi/AssestmentTodoCrudOpn.git
 Navigate to the project directory:
 
 
