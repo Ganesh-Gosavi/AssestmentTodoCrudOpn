@@ -45,14 +45,14 @@ Ensure you have the following installed on your local development environment:
     - For the **client**:
 
         ```bash
-        cd client
+        cd Frontend
         npm install
         ```
 
     - For the **server**:
 
         ```bash
-        cd ../server
+        cd Backend
         npm install
         ```
 
@@ -70,14 +70,14 @@ Ensure you have the following installed on your local development environment:
 1. **Start the backend server**:
 
     ```bash
-    cd server
+    cd Backend
     npm start
     ```
 
 2. **Start the frontend development server**:
 
     ```bash
-    cd client
+    cd Frontend
     npm start
     ```
 
@@ -86,11 +86,11 @@ Ensure you have the following installed on your local development environment:
 
 ## Screenshots
 
-![App Screenshot](./ss1.png)
-![App Screenshot](./ss2.png)
-![App Screenshot](./ss3.png)
-![App Screenshot](./ss4.png)
-![App Screenshot](./ss5.png)
-![App Screenshot](./ss6.png)
+![App Screenshot](./TaskManager/ss1.png)
+![App Screenshot](./TaskManager/ss2.png)
+![App Screenshot](./TaskManager/ss3.png)
+![App Screenshot](./TaskManager/ss4.png)
+![App Screenshot](./TaskManager/ss5.png)
+![App Screenshot](./TaskManager/ss6.png)
 
 
