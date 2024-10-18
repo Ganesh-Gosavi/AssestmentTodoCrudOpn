@@ -86,11 +86,18 @@ Ensure you have the following installed on your local development environment:
 
 ## Screenshots
 
+![App Screenshot](./TaskManager/crud.png) 
+
 ![App Screenshot](./TaskManager/ss1.png)
+
 ![App Screenshot](./TaskManager/ss2.png)
+
 ![App Screenshot](./TaskManager/ss3.png)
+
 ![App Screenshot](./TaskManager/ss4.png)
+
 ![App Screenshot](./TaskManager/ss5.png)
+
 ![App Screenshot](./TaskManager/ss6.png)
 
 
