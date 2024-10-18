@@ -1,24 +1,24 @@
-# ToDo CRUD Application
+# ✅ TODO CRUD Application
 
-This project is a CRUD (Create, Read, Update, Delete) application for managing ToDo items. It is built using the MERN stack, consisting of **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
+This project is a **CRUD** (Create, Read, Update, Delete) application for managing ToDo items. It is built using the **MERN** stack, consisting of **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
 
-## Features
+## ✨ Features
 
-- **Create ToDo**: Add new ToDo items with details.
-- **Read ToDo**: View the list of all ToDo items.
-- **Update ToDo**: Edit details of existing ToDo items.
-- **Delete ToDo**: Remove ToDo items from the list.
-- **Responsive Design**: Optimized for both desktop and mobile views.
+- 📝 **Create ToDo**: Add new ToDo items with details.
+- 👁️ **Read ToDo**: View the list of all ToDo items.
+- ✏️ **Update ToDo**: Edit details of existing ToDo items.
+- ❌ **Delete ToDo**: Remove ToDo items from the list.
+- 📱 **Responsive Design**: Optimized for both desktop and mobile views.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Frontend**: React.js, CSS, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
-## Getting Started
+## ⚙️ Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 
 Ensure you have the following installed on your local development environment:
 
@@ -26,7 +26,7 @@ Ensure you have the following installed on your local development environment:
 - **npm** (v6 or later)
 - **MongoDB** (local or cloud-based)
 
-### Installation
+### 📥 Installation
 
 1. **Clone the repository**:
 
@@ -56,7 +56,7 @@ Ensure you have the following installed on your local development environment:
         npm install
         ```
 
-### Configuration
+## 🔧 Configuration
 
 1. Create a `.env` file in the `server` directory and add the following environment variables:
 
@@ -65,7 +65,7 @@ Ensure you have the following installed on your local development environment:
     MONGO_URI=your_mongodb_connection_string
     ```
 
-### Running the Application
+## 🚀 Running the Application
 
 1. **Start the backend server**:
 
@@ -83,10 +83,9 @@ Ensure you have the following installed on your local development environment:
 
 3. Open your browser and navigate to `http://localhost:3000` to view the application.
 
+## 📸 Screenshots
 
-## Screenshots
-
-![App Screenshot](./TaskManager/crud.png) 
+![App Screenshot](./TaskManager/crud.png)
 
 ![App Screenshot](./TaskManager/ss1.png)
 
@@ -100,4 +99,6 @@ Ensure you have the following installed on your local development environment:
 
 ![App Screenshot](./TaskManager/ss6.png)
 
+## 📝 License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
